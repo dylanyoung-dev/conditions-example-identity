@@ -1,0 +1,11 @@
+{
+  "name": "conditions-example-identity",
+  "version": "1.0.0",
+  "description": "Conditions specifically built for Identity scenarios.  This repository uses the Serializer for deployment to your tenant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
